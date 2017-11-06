@@ -1,0 +1,19 @@
+{
+  "name": "hangmanconstructor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dartanianbagby1/hangmanConstructor.git"
+  },
+  "author": "John Dartanian Bagby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dartanianbagby1/hangmanConstructor/issues"
+  },
+  "homepage": "https://github.com/Dartanianbagby1/hangmanConstructor#readme"
+}
